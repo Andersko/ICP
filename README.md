@@ -1,7 +1,7 @@
 Aplikacia pre zobrazenie liniek hromadnej dopravy a ich pohybu na mape:
 
- *	Autor: Miroslav Balaz <xbalaz09@stud.fit.vutbr.cz>
- *	Autor: Andrej Pavlovic <xpavlo.stud.fit.vutbr.cz>
+ *	Autor: Miroslav Baláž <xbalaz09@stud.fit.vutbr.cz>
+ *	Autor: Andrej Pavlovič <xpavlo14@stud.fit.vutbr.cz>
 
 Data po spusteni aplikacie spracuje data holder.
 
