@@ -1,0 +1,6 @@
+# Linky format -> Cislo spoja Zac.zastavka Konc.zastavka cela-cesta
+
+10 Z2 Z4 Z1-Z3 Z2-P2-P4-Z1-P7-P8-Z3-P11-P6-Z4
+20 Z9 Z7 Z10-Z6 Z9-P6-P5-Z10-P7-Z6-P12-P14-Z7
+30 Z5 Z8 Z5-P8-P7-P12-P10-P15-P16-Z8
+40 Z8 Z4 Z8-P13-P10-P12-Z6-P7-P5-Z9-P4-Z4-P6-Z9

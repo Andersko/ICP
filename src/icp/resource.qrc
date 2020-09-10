@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/text_files">
+        <file>txt_files/cesty.txt</file>
+        <file>txt_files/linky.txt</file>
+        <file>txt_files/spoje.txt</file>
+    </qresource>
+</RCC>
